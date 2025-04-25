@@ -1,7 +1,6 @@
 ### 👋 Olá! Eu sou o Bertrand Otoniel
 Sou apaixonado por dados, tecnologia e soluções que geram impacto real no negócio. Atualmente, curso **Gestão da Informação (UFG)** e **Big Data e Inteligência Artificial (PUC)**.
 Gosto de transformar dados em decisões inteligentes, buscando sempre evoluir em projetos práticos, automações e soluções baseadas em IA.  
-Estou sempre aberto a novas conexões, ideias e desafios!
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bertrand-otoniel/)
 
